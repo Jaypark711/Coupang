@@ -36,7 +36,7 @@ def driver():
     #  대기시간 설정
     driver.implicitly_wait(5)
 
-    yield driver 
+    yield driver #First change
 
     # 테스트가 끝나면 드라이버 종료
     driver.quit()
