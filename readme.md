@@ -11,8 +11,6 @@ Not for real test.
 
 > It is not a real command. <br>
 
-Do not try if you ain't fool.  
-It is not a real command.  
 
 ---
 
